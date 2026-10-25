@@ -174,9 +174,6 @@ I = 0.60H + 0.25N + 0.15Tf
 
 En ambos casos, la suma de los coeficientes es igual a 1.
 
-## Declaración de uso de Inteligencia Artificial
-
-Durante el desarrollo de esta práctica se utilizó inteligencia artificial como herramienta de apoyo para revisar la organización del proyecto, aclarar algunos conceptos y mejorar la redacción de ciertos contenidos. La implementación, revisión de resultados y análisis final fueron comprobados por el estudiante.
 
 ### Prompts representativos utilizados
 
