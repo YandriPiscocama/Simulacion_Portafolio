@@ -208,13 +208,3 @@ Al ejecutar el programa se generan las gráficas correspondientes a:
 - comparación de los cuatro modelos.
 
 Las gráficas permiten observar las diferencias entre los modelos, la influencia de la tasa de crecimiento `r`, el efecto de la aleatoriedad en el modelo estocástico y el comportamiento del método de Euler mediante el parámetro `dt`.
-
-## Declaración de uso de Inteligencia Artificial
-
-Durante el desarrollo de esta práctica se utilizó inteligencia artificial como herramienta de apoyo para revisar la organización del proyecto, aclarar conceptos y mejorar la redacción de algunos contenidos. La implementación, comprobación de resultados y análisis final fueron revisados por el estudiante.
-
-### Prompts representativos utilizados
-
-1. `Analiza la estructura del proyecto y verifica si los modelos están organizados correctamente.`
-2. `Refactoriza la redacción manteniendo la idea original y un lenguaje sencillo.`
-3. `Explica de forma sencilla las diferencias entre los modelos y los resultados obtenidos.`
