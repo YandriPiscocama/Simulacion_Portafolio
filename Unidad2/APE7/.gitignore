@@ -1,0 +1,22 @@
+# Entornos y archivos generados por Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Compilacion de Java y archivos temporales
+java/build/
+*.class
+tmp/
+*.log
+
+# Corridas nuevas de demostracion; los CSV de resultados/ son la referencia historica
+demostracion/
+
+# Archivos personales de editor e informe, fuera del alcance de este repositorio
+.vscode/
+docs/
+referencia/
+*.docx
+*.pdf
